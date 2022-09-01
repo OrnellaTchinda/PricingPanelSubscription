@@ -1,7 +1,7 @@
 # PricingPanelSubscription
 <a href="https://pricingpanelsubscription.netlify.app/" target="_blank">Check It Out</a>
 
-<a href="https://pricingpanelsubscription.netlify.app/" target="_blank"><img src="https://github.com/OrnellaTchinda/Doggos-and-Puppers/blob/8f77f20639663575dedec242370993d019fb221c/css/images/doggosAndPuppers.gif" /></a>
+<a href="https://pricingpanelsubscription.netlify.app/" target="_blank"><img src="Pricing-Panel-gif-maker.gif" /></a>
 
 ### The Pricing Panel Subscripption website is a responsive website that shows different subscription plans for an educational website.
 
